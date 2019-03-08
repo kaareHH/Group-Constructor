@@ -1,4 +1,6 @@
 # Group-Constructor
-This program is a part of a semester project which involves group construction in highschools. The program is based Belbins team roles. 
+The program seeks to equally distribute the roles of all students across the groups. The program is based on Belbins team roles, and an algorithm designed along with the program.
+
+Developed with Anders Springborg, Anders Nørgaard, Andreas Andersen, Simon Christensen, Phillip Michaelsen og Martin Andersen.
 
 I'm not offering any license.
