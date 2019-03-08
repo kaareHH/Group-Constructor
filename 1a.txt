@@ -1,0 +1,12 @@
+Clint Eastwood,                       1 9;
+Leonardo DiCaprio,                    2 3 6;
+Marlon Brando,                        8 9;
+Bette Davis,                          2 4 8;
+Samuel Jackson,                       1 3;
+Charlie Chaplin,                      3;
+Elizabeth Taylor,                     7;
+Ingrid Bergman,                       3 5;
+Michael Caine,                        3 9;
+Sean Connery,                         4 9;
+Julie Roberts,                        6;
+Kirk Douglas,                         3 4;

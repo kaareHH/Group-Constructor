@@ -1,0 +1,17 @@
+Jeff Bezos,                                   4 6;
+Bill Gates,                                 3 6 9;
+Warren Buffet,                                1 2;
+Bernard Anualt,                             5 7 8;
+Mark Zuckerberg,                            4 6 9;
+Amancio Ortega,                                 1;
+Carlos Slim Helu,                               8;
+Chales Koch,                                    9;
+David Koch,                                   3 6;
+Larry Ellison,                                1 9;
+Michael Bloomberg,                              9;
+Larry Page,                                   1 4;
+Sergey Brin,                                  4 9;
+Jim Walton,                                 3 4 9;
+Robson Walton,                                  8;
+Alice Walton,                               1 2 9;
+Ma Huateng,                                 2 3 7;
